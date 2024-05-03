@@ -1,8 +1,6 @@
-import logo from './logo.svg';
 import './App.css';
 import { Button } from './components/Button';
 import { ButtonNumeros } from './components/Button';
-import Header from './components/Header';
 import React, { useState } from 'react';
 
 
